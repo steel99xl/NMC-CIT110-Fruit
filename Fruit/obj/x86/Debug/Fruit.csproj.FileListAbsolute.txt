@@ -1,0 +1,6 @@
+/Users/steel99xl/Documents/C#/CIT_101/WEEK_9/Fruit/Fruit/bin/Debug/Fruit.exe
+/Users/steel99xl/Documents/C#/CIT_101/WEEK_9/Fruit/Fruit/bin/Debug/Fruit.pdb
+/Users/steel99xl/Documents/C#/CIT_101/WEEK_9/Fruit/Fruit/obj/x86/Debug/Fruit.csprojAssemblyReference.cache
+/Users/steel99xl/Documents/C#/CIT_101/WEEK_9/Fruit/Fruit/obj/x86/Debug/Fruit.csproj.CoreCompileInputs.cache
+/Users/steel99xl/Documents/C#/CIT_101/WEEK_9/Fruit/Fruit/obj/x86/Debug/Fruit.exe
+/Users/steel99xl/Documents/C#/CIT_101/WEEK_9/Fruit/Fruit/obj/x86/Debug/Fruit.pdb
